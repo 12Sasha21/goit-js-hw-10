@@ -18,3 +18,16 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+}
+
+h2 {
+  margin-left: 15px;
+}
+
+.country-item {
+  display: flex;
+  align-items: center;
+}
